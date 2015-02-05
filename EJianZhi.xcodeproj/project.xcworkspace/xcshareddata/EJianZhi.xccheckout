@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8DEE90F2-DB7B-49AB-AB54-74F579BDACA6</string>
+	<key>IDESourceControlProjectName</key>
+	<string>EJianZhi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>070490619B66FC6872AF553350CBC94073FAC778</key>
+		<string>https://github.com/bunnyirsa/EJianZhi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>EJianZhi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>070490619B66FC6872AF553350CBC94073FAC778</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/bunnyirsa/EJianZhi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>070490619B66FC6872AF553350CBC94073FAC778</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>070490619B66FC6872AF553350CBC94073FAC778</string>
+			<key>IDESourceControlWCCName</key>
+			<string>EJianZhi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
